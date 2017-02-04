@@ -1,0 +1,17 @@
+Yönetim Paneli Bilgileri ;
+
+Site.com/Cms/
+Kullanýcý Adý : admin@admin.com
+Kullanýcý Þifre : 123456
+
+Kurulum ;
+
+- application/config/$config['base_url'] = 'Buraya Kuracaðýnýz Dizin';
+- application/config/database.php de Veritabaný Ayarlarýný Yapýn
+- Dosyalarý FTP Aktarýn 
+- .sql phpmyadmin import edin.
+
+
+Sorunlar v görüþler için ;
+
+tolgaturants@gmail.com adresine mail atmanýz yeterlidir.
